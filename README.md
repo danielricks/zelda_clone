@@ -1,7 +1,8 @@
 # zelda_clone
-Clear Code's Zelda tutorial code, with added xbox controller support and enemy pathfinding
+Clear Code's Zelda tutorial code, with added xbox controller support and enemy pathfinding.
 
 Video: https://www.youtube.com/watch?v=QU1pPzEGrqw
+
 Original Code: https://github.com/clear-code-projects/Zelda
 
 This project is published under the Creative Commons Zero (CC0) license (as Clear Code's was).
